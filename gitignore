@@ -1,0 +1,5 @@
+*.ts
+.mypy_cache/
+!*/percussion.ts
+.venv/
+.venv
