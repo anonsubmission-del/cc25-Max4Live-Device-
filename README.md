@@ -1,7 +1,9 @@
 # MALT-Max4Live-Device
- A Max4Live Device facilitating the use of latent audio manipulation in popular production tool Ableton Live [You can use a free trial of Live available here](https://www.ableton.com/en/trial/)
+ A Max4Live Device facilitating the use of latent audio manipulation in popular production tool Ableton Live. *[You can use a free trial of Live available here](https://www.ableton.com/en/trial/)*
 
- demo video ()[]
+[Demo Video:](https://youtu.be/Ls3XayNxutE)
+
+[![Demo Video](Assets/plugin.gif)](https://youtu.be/Ls3XayNxutE)
 
 ## Setup:
 
@@ -37,6 +39,7 @@ Be sure to add these to the `MALT4Liveamxd.amxd/` **folder** of the project, it 
 
 ### Then Drag and drop into Ableton (and have fun)
 
+Drag the `MALT4Liveamxd_test.amxd` file into a midi track on ableton.
 ![Dragging the max for live device into Ableton](Assets/dragndrop.png)
 
 ## Use:
