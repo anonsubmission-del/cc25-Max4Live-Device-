@@ -1,0 +1,12 @@
+MALT4Liveamxd.amxd/additive_1024.ts
+*.ts
+.mypy_cache/
+!*/additive_1024.ts
+!*/darbouka_onnx.ts
+!*/oldsynths_new.ts
+!*/oldsynths.ts
+!*/ordinario_1024.ts
+!*/percussion.ts
+.venv/
+.venv
+*/externals/*.mxo
